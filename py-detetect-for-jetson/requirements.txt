@@ -1,8 +1,0 @@
-numpy>=1.19.4
-matplotlib
-psutil
-filterpy
-scipy
-# lap là thư viện giúp SORT chạy nhanh hơn, nhưng cần cài Cython trước
-Cython
-lap
